@@ -1,0 +1,4 @@
+.photos__item {
+    box-sizing: border-box;
+    max-height: 264px;
+}
