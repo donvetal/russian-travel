@@ -27,7 +27,6 @@
 
 @media (min-width: 1280px) {
     .lead__title {
-        margin-right: 280px;
-        margin-left: 280px;
+        min-width: 720px;
     }
 }

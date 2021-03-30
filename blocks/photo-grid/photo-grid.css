@@ -1,6 +1,7 @@
 .photo-grid {
     box-sizing: border-box;
     padding: 0 16px;
+    margin: 0 auto;
 
 }
 @media (min-width: 768px) {

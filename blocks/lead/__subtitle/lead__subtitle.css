@@ -27,8 +27,9 @@
 }
 @media (min-width: 1280px) {
     .lead__subtitle {
-        margin-left: 320px;
-        margin-right: 320px;
+        /*margin-left: 320px;
+        margin-right: 320px;*/
         margin-bottom: 64px;
+        min-width: 640px;
     }
 }
