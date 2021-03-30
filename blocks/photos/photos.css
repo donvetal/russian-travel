@@ -1,0 +1,32 @@
+.photos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+    grid-gap: 12px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+@media (min-width: 768px) {
+    .photos {
+        grid-gap: 16px;
+    }
+
+}
+
+@media (min-width: 1024px) {
+    .photos {
+        grid-gap: 14px;
+    }
+
+}
+
+@media (min-width: 1280px) {
+    .photos {
+        grid-gap: 16px;
+    }
+
+}
