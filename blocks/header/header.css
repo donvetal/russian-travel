@@ -5,16 +5,18 @@
     padding: 16px 16px 0;
 
 }
+
 @media (min-width: 768px) {
-    .header{
+    .header {
         padding-top: 28px;
         padding-right: 24px;
         padding-left: 24px;
     }
 
 }
+
 @media (min-width: 1024px) {
-    .header{
+    .header {
         padding-right: 48px;
         padding-left: 48px;
     }

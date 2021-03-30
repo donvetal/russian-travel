@@ -2,12 +2,10 @@
     font-size: 16px;
     line-height: 20px;
     font-weight: 400;
-    min-width: 288px;
     white-space: pre-line;
+    margin: 0 auto;
+    padding: 0 16px 40px;
     text-align: center;
-    margin-top: 0;
-    margin-bottom: 40px;
-    padding: 0;
 
 }
 
@@ -15,21 +13,10 @@
     .lead__subtitle {
         font-size: 30px;
         line-height: 36px;
-        margin: 0 64px 56px;
-    }
-}
+        max-width: 640px;
+        padding-right: 64px;
+        padding-left: 64px;
+        padding-bottom: 56px;
 
-@media (min-width: 1024px) {
-    .lead__subtitle {
-        margin-left: 192px;
-        margin-right: 192px;
-    }
-}
-@media (min-width: 1280px) {
-    .lead__subtitle {
-        /*margin-left: 320px;
-        margin-right: 320px;*/
-        margin-bottom: 64px;
-        min-width: 640px;
     }
 }
