@@ -2,29 +2,21 @@
     font-size: 10px;
     line-height: 14px;
     font-weight: 400;
-    position: absolute;
-    left: 16px;
-    bottom: 0;
     margin: 0;
-    padding: 0;
-    min-width: 158px;
+    padding: 8px 0 0 16px;
 
 }
 
 @media (min-width: 768px) {
     .lead__caption {
-        left: 24px;
+        padding-left: 24px;
     }
 }
 
 @media (min-width: 1024px) {
     .lead__caption {
-        left: 48px;
+        padding-left: 0;
     }
 }
-@media (min-width: 1024px) {
-    .lead__caption {
-        left: 148px;
-    }
-}
+
 

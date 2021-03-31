@@ -1,7 +1,6 @@
 .lead {
     margin: 0 auto;
     padding: 48px 0 0;
-    position: relative;
 
 }
 
@@ -12,7 +11,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1280px) {
     .lead {
         padding-top: 56px;
         padding-right: 148px;
