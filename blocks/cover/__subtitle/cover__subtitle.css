@@ -2,23 +2,15 @@
     font-size: 14px;
     line-height: 16px;
     font-weight: 400;
-    white-space: pre-line;
     text-align: center;
-    min-height: 48px;
-    margin: 0;
-}
-
-@media (min-width: 425px) {
-    .cover__subtitle {
-        font-size: 15px;
-        line-height: 17px;
-    }
-
+    margin: 0 auto;
+    max-width: 288px;
 }
 
 
 @media (min-width: 700px) {
     .cover__subtitle {
+        max-width: 360px;
         font-size: 18px;
         line-height: 22px;
     }

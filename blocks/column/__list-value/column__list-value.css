@@ -1,9 +1,7 @@
-.column__list {
+.column__list-value {
     font-size: 12px;
     line-height: 18px;
-    font-weight: 700;
+    font-weight: 400;
     margin: 0;
     padding: 0;
-
-
 }
