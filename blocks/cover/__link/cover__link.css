@@ -5,6 +5,7 @@
     padding: 33px 16px;
     background-image: url("../../../images/cover-trains.jpg");
     background-size: 100% 100%;
+    background-position: center;
     color: inherit;
     z-index: 1;
 }
@@ -34,7 +35,7 @@
 
 @media (min-width: 768px) {
     .cover__link {
-        padding: 155px 104px;
+        padding: 115px 104px;
     }
 
 }
