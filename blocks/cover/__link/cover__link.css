@@ -4,7 +4,7 @@
     display: block;
     padding: 33px 16px;
     background-image: url("../../../images/cover-trains.jpg");
-    background-size: 100% 100%;
+    background-size: cover;
     background-position: center;
     color: inherit;
     z-index: 1;
